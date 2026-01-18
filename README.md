@@ -1,5 +1,5 @@
 > [!NOTE]
-> This repository is work in progress.
+> This is work in progress. More soon.
 
 # playground
 This repository contains various notes, tutorials, apks, binaries, and other types of files meant for anyone to use.
