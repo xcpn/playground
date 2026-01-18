@@ -5,7 +5,7 @@
 This repository contains various notes, tutorials, apks, binaries, and other types of files meant for anyone to use.
 
 # APKs
-All APK files uploaded here are signed by me.
+All APK files uploaded here are signed with my Keystore.
 
 ```
 Signer: XCPN (github.com/xcpn)
