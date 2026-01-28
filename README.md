@@ -12,3 +12,6 @@ Signer: XCPN (github.com/xcpn)
 SHA-256 digest: d032d8ef1f59e590637f4c9cdf972d6bfd643eb0b91826d491f4dfdf7e348775
 SHA-1 digest: d8a8273c2100bc25f52228f77035d643103267e7
 ```
+
+List of available APKs:
+- [PortAuthority](https://github.com/xcpn/playground/tree/main/apk/PortAuthority)
