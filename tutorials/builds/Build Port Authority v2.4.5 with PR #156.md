@@ -95,4 +95,4 @@ cd ~
 
 You can now move the file to your phone and install it. This is a debug and not a signed release. It doesn't change something functionally for you but you will see a _Leaks_ app installed alongside and you are not gonna be able to uninstall it (technically not an individual app), just hide it from your drawer. This is the [LeakCanary](https://github.com/square/leakcanary) tool (library) and comes as a debug component, it detects memory leaks.
 
-If you want to go through the steps of creating your own Keystore and signing a release, create an issue and I will create a tutorial for it.
+If you want to go through the steps of creating your own Keystore and signing a release, create a [request](https://github.com/xcpn/playground/discussions/categories/requests) and I may create a tutorial for it.
