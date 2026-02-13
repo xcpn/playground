@@ -15,3 +15,9 @@ SHA-1 digest: d8a8273c2100bc25f52228f77035d643103267e7
 
 List of available APKs:
 - [PortAuthority](https://github.com/xcpn/playground/tree/main/apk/PortAuthority)
+
+# Tutorials
+Tutorials on how to build or setup stuff.
+
+List of available categories:
+- [Builds](https://github.com/xcpn/playground/tree/main/tutorials/builds)
