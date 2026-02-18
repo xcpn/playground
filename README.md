@@ -4,6 +4,12 @@
 # playground
 This repository contains various notes, tutorials, apks, binaries, and other types of files meant for anyone to use.
 
+# Binaries
+Binary files built by me for AMD64 (x86_64) and ARM64 (aarch64).
+
+List of available binaries:
+ - [signal-cli](https://github.com/xcpn/playground/tree/main/binaries/arm64/signal-cli) (ARM64)
+
 # APKs
 All APK files uploaded here are signed with my Keystore.
 
