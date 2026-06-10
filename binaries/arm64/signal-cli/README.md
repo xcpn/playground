@@ -1,3 +1,10 @@
+### signal-cli-0.14.4.1-Linux-native-aarch64-glibc-2.41.tar.gz
+Info: Built signal-cli native ELF binary for ARM64 (aarch64) in Debian 13 with GLIBC version 2.41.
+
+Also applied commits [60779c9](https://github.com/AsamK/signal-cli/commit/60779c91c6144eb4e28bb838ec754dd139f71c01) and [29e65a5](https://github.com/AsamK/signal-cli/commit/29e65a5c8e5b50d5130ae26307b1ce060fcc89f2) to fix issues.
+
+Download via [Releases](https://github.com/xcpn/playground/releases/tag/v0.14.4.1-aarch64-signal-cli) page.
+
 ### signal-cli-0.13.24-Linux-native-aarch64.tar.gz
 Info: Built signal-cli native ELF binary for ARM64 (aarch64) in Debian 13 with GLIBC version 2.41.
 
